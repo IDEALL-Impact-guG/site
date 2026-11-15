@@ -1,0 +1,4 @@
+# GitHub Pages builds this repo with Jekyll when publishing from a branch.
+# Excluded files stay in the repo and are left out of the site.
+exclude:
+  - README.md
